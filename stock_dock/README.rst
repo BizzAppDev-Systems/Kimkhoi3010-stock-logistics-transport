@@ -56,30 +56,30 @@ Authors
 Contributors
 ------------
 
--  Sébastien Alix <sebastien.alix@camptocamp.com>
--  `Trobz <https://trobz.com>`__:
+- Sébastien Alix <sebastien.alix@camptocamp.com>
+- `Trobz <https://trobz.com>`__:
 
-   -  Dung Tran <dungtd@trobz.com>
-   -  Khoi (Kien Kim) <khoikk@trobz.com>
+  - Dung Tran <dungtd@trobz.com>
+  - Khoi (Kien Kim) <khoikk@trobz.com>
 
 Design
 ~~~~~~
 
--  Joël Grand-Guillaume <joel.grandguillaume@camptocamp.com>
--  Jacques-Etienne Baudoux <je@bcim.be>
+- Joël Grand-Guillaume <joel.grandguillaume@camptocamp.com>
+- Jacques-Etienne Baudoux <je@bcim.be>
 
 Other credits
 -------------
 
 **Financial support**
 
--  Cosanum
--  Camptocamp R&D
+- Cosanum
+- Camptocamp R&D
 
 The migration of this module from 13.0 to 14.0 and then from 16.0 to
 18.0 was financially supported by:
 
--  Camptocamp
+- Camptocamp
 
 Maintainers
 -----------
